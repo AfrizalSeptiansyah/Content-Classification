@@ -1,1 +1,1 @@
-# Content-Classification
+# Content-Classification-with-Logistic-Regression-(imbalanced-case)
