@@ -1,6 +1,6 @@
 # Project Title
 
-Content Classification Logistic Regression 
+Content Classification with Logistic Regression 
 
 ## Description
 
